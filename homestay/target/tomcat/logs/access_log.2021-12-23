@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:50 +0800] "GET /homestay HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:50 +0800] "GET /homestay/ HTTP/1.1" 200 990 http-bio-8080-exec-3 77
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "POST /homestay/loginServlet HTTP/1.1" 302 - http-bio-8080-exec-5 510
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/index.jsp HTTP/1.1" 200 2441 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/css/index.css HTTP/1.1" 200 7920 http-bio-8080-exec-8 6
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/js/airbnb.js HTTP/1.1" 200 4152 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/imgs/airbnb.png HTTP/1.1" 200 35449 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/imgs/head.png HTTP/1.1" 200 54571 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/imgs/back.jpg HTTP/1.1" 200 31269 http-bio-8080-exec-1 4
+0:0:0:0:0:0:0:1 - - [23/Dec/2021:20:35:59 +0800] "GET /homestay/imgs/p2.png HTTP/1.1" 200 240606 http-bio-8080-exec-3 7

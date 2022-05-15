@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homestay/homestay.iml" filepath="$PROJECT_DIR$/homestay/homestay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rehomestay.iml" filepath="$PROJECT_DIR$/.idea/rehomestay.iml" />
+    </modules>
+  </component>
+</project>
